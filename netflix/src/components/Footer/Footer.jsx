@@ -32,7 +32,7 @@ const Footer = () => {
               <div>
               <ul>
                   <li> Privacy policy</li>
-                  <li> Cookies</li>
+                  <li> Terms use</li>
                   <li> Accessibility</li>
                 </ul>
               </div>
